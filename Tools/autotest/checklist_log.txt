@@ -1,0 +1,6 @@
+2026-02-28 15:21:16: Confirm batteries charged - CHECKED
+2026-02-28 15:21:19: Engine throttle responsive - CHECKED
+2026-02-28 15:21:19: Runway clear - CHECKED
+2026-02-28 15:21:20: Radio links OK - CHECKED
+2026-02-28 15:21:20: Antenna tracker check - CHECKED
+2026-02-28 15:21:21: GCS stable - CHECKED
